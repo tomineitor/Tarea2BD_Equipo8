@@ -1,0 +1,2 @@
+class VisitaInvitado < ApplicationRecord
+end

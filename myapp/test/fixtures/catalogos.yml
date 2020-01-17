@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  catalogoid: 1
+  temporadavalidez: 2020-01-16
+  descuentos: 1
+  categoria: MyText
+
+two:
+  catalogoid: 1
+  temporadavalidez: 2020-01-16
+  descuentos: 1
+  categoria: MyText

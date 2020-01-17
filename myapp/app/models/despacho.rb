@@ -1,0 +1,2 @@
+class Despacho < ApplicationRecord
+end

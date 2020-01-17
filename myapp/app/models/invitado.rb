@@ -1,0 +1,2 @@
+class Invitado < ApplicationRecord
+end

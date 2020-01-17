@@ -1,0 +1,2 @@
+class Modificacion < ApplicationRecord
+end

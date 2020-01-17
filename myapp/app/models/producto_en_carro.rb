@@ -1,0 +1,2 @@
+class ProductoEnCarro < ApplicationRecord
+end

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  producto: MyText
+  stock: 1
+  productoid: 1
+  proveedorid: 1
+
+two:
+  producto: MyText
+  stock: 1
+  productoid: 1
+  proveedorid: 1

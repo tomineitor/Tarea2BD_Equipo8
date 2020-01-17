@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  productoid: 1
+  animal: MyText
+  tipo: MyText
+  descripcion: MyText
+  precio: 1
+
+two:
+  productoid: 1
+  animal: MyText
+  tipo: MyText
+  descripcion: MyText
+  precio: 1
