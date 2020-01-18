@@ -6,6 +6,7 @@ Tarea2BD_Equipo 8
 
 *aclaraciones: 1) los commits los realizo sólo el Pedro porque yo no logre instalar ruby en mi computador, asi que 
                   trabajamos solo en el suyo haciendo uso de compartir pantalla.
+                  
                2) Al final ibamos a hacer otro commit, que le añadia a la aplicacion una vista de un carrito de compras que solo
                   era visible si estabas logeado con un usuario, pero éste carrito no hacia nada, ademas de un vinculo para
                   volver al menu principal desde la pagina de productos, el cual no existia y uno solo se podia devolver si 
