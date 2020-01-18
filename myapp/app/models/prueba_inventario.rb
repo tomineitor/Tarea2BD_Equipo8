@@ -1,0 +1,2 @@
+class PruebaInventario < ApplicationRecord
+end

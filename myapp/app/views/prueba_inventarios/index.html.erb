@@ -1,0 +1,22 @@
+<h1>Items</h1>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Stock</th>
+      <th>ProductoID</th>
+      <th>ProveedorID</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @items.each do |item| %>
+      <tr>
+        <td><%= item.producto %></td>
+        <td><%= item.stock %></td>
+        <td><%= item.productoid %></td>
+        <td><%= item.proveedorid %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
